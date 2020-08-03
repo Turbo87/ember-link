@@ -1298,20 +1298,20 @@
     eslint-plugin-qunit "^4.2.0"
     lodash.merge "^4.6.2"
 
-"@clark/eslint-config-node-order-imports@^1.26.0":
-  version "1.26.0"
-  resolved "https://registry.yarnpkg.com/@clark/eslint-config-node-order-imports/-/eslint-config-node-order-imports-1.26.0.tgz#110a6d58802190643c3abd1035b334c7530434fb"
-  integrity sha512-H3j39OCvMfAP3iVw2zOCocFSzxu3lcNK8hSFL9RiP8DovmUAKHKz7dPO2FjSdmP0KB4cUVf5POdBaMrN61Af3g==
+"@clark/eslint-config-node-order-imports@^1.26.1":
+  version "1.26.1"
+  resolved "https://registry.yarnpkg.com/@clark/eslint-config-node-order-imports/-/eslint-config-node-order-imports-1.26.1.tgz#efaab3259b0560154dc5cdf03d4c0bf737edd197"
+  integrity sha512-gKJF/0AqMyWWCztSAp1v9z8PSIKNQBCS3xNCeutxT3C7+31ufcuVTzmPAErhjR+OSDzrYFVcq1kEG/ldLPdZMQ==
   dependencies:
     eslint-plugin-import-helpers "^1.1.0"
 
-"@clark/eslint-config-node@^1.26.0":
-  version "1.26.0"
-  resolved "https://registry.yarnpkg.com/@clark/eslint-config-node/-/eslint-config-node-1.26.0.tgz#5fdc7aa4b61a617619ae8858d17d3e215d49c4c8"
-  integrity sha512-/ldEu9IWBkNbKIAAFZOFTytP8YU7/JvE5ZYMTaJXudZ40jhr8l1UE0dfLsLYv+CVhUAJ5H7/Z5KU18jNvM3/qw==
+"@clark/eslint-config-node@^1.26.1":
+  version "1.26.1"
+  resolved "https://registry.yarnpkg.com/@clark/eslint-config-node/-/eslint-config-node-1.26.1.tgz#47da4800a90e9c45f45d6c09044718315f7190d0"
+  integrity sha512-1mphjxOj71gninS1WvfVt88DBgJ1WBz+0aVO6ao8IfWse4P7eF3B9WRdw9O4GjXrFEexzsmZxwaKH33bcHwmxA==
   dependencies:
-    "@clark/eslint-config" "^1.26.0"
-    "@clark/eslint-config-node-order-imports" "^1.26.0"
+    "@clark/eslint-config" "^1.26.1"
+    "@clark/eslint-config-node-order-imports" "^1.26.1"
     eslint-plugin-node "^11.1.0"
     lodash.merge "^4.6.2"
 
@@ -1323,20 +1323,6 @@
     "@clark/eslint-config" "^1.26.1"
     "@typescript-eslint/eslint-plugin" "^3.7.1"
     "@typescript-eslint/parser" "^3.7.1"
-
-"@clark/eslint-config@^1.26.0":
-  version "1.26.0"
-  resolved "https://registry.yarnpkg.com/@clark/eslint-config/-/eslint-config-1.26.0.tgz#a1ecb2b056900d6dcafaceca7b41d4ef8b877897"
-  integrity sha512-PPTzS5fOWhLP4AbR/tvZw72kG2dnL0tRjEJE3mbcUKSkH1JPVIDthutXUEneTDeau9xnTUivaqJTHUAkuqL4LQ==
-  dependencies:
-    eslint-config-airbnb-base "^14.2.0"
-    eslint-config-prettier "^6.11.0"
-    eslint-config-xo-space "^0.25.0"
-    eslint-plugin-import "^2.22.0"
-    eslint-plugin-node "^11.1.0"
-    eslint-plugin-prettier "^3.1.4"
-    eslint-plugin-unicorn "^21.0.0"
-    prettier "^2.0.5"
 
 "@clark/eslint-config@^1.26.1":
   version "1.26.1"
