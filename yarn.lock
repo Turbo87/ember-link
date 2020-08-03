@@ -1298,20 +1298,20 @@
     eslint-plugin-qunit "^4.2.0"
     lodash.merge "^4.6.2"
 
-"@clark/eslint-config-node-order-imports@^1.26.1":
-  version "1.26.1"
-  resolved "https://registry.yarnpkg.com/@clark/eslint-config-node-order-imports/-/eslint-config-node-order-imports-1.26.1.tgz#efaab3259b0560154dc5cdf03d4c0bf737edd197"
-  integrity sha512-gKJF/0AqMyWWCztSAp1v9z8PSIKNQBCS3xNCeutxT3C7+31ufcuVTzmPAErhjR+OSDzrYFVcq1kEG/ldLPdZMQ==
+"@clark/eslint-config-node-order-imports@^1.26.2":
+  version "1.26.2"
+  resolved "https://registry.yarnpkg.com/@clark/eslint-config-node-order-imports/-/eslint-config-node-order-imports-1.26.2.tgz#237e5a4047ba884dc12563750f16381802b7833b"
+  integrity sha512-RzGoJps8oHlHnj4UJIHeqL5jmtQsDx+preP+hRcxpMG5/cGsXACvWUZknu/6Y1sVJFPsZlXzEvZ7HKEMyhSEGQ==
   dependencies:
     eslint-plugin-import-helpers "^1.1.0"
 
-"@clark/eslint-config-node@^1.26.1":
-  version "1.26.1"
-  resolved "https://registry.yarnpkg.com/@clark/eslint-config-node/-/eslint-config-node-1.26.1.tgz#47da4800a90e9c45f45d6c09044718315f7190d0"
-  integrity sha512-1mphjxOj71gninS1WvfVt88DBgJ1WBz+0aVO6ao8IfWse4P7eF3B9WRdw9O4GjXrFEexzsmZxwaKH33bcHwmxA==
+"@clark/eslint-config-node@^1.26.2":
+  version "1.26.2"
+  resolved "https://registry.yarnpkg.com/@clark/eslint-config-node/-/eslint-config-node-1.26.2.tgz#6be4166b5a5e2b9560bf59ec22dea259ad723a4e"
+  integrity sha512-JKyLsRJw9luUu/TzPSvpwNg+9sS99JP6EBwdOO0UCxUI6OdD/PiP3HezA4nbQ3KfnnF8tq5u6Lf0sacsJ2MM8w==
   dependencies:
-    "@clark/eslint-config" "^1.26.1"
-    "@clark/eslint-config-node-order-imports" "^1.26.1"
+    "@clark/eslint-config" "^1.26.2"
+    "@clark/eslint-config-node-order-imports" "^1.26.2"
     eslint-plugin-node "^11.1.0"
     lodash.merge "^4.6.2"
 
