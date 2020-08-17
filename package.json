@@ -37,7 +37,7 @@
     "fast-json-stable-stringify": "^2.1.0"
   },
   "devDependencies": {
-    "@clark/ember-template-lint-config": "^0.2.1",
+    "@clark/ember-template-lint-config": "^0.2.2",
     "@clark/eslint-config-ember": "^1.28.0",
     "@clark/eslint-config-ember-typescript": "^1.28.1",
     "@clark/eslint-config-node": "^1.28.0",
@@ -67,7 +67,7 @@
     "ember-resolver": "^8.0.2",
     "ember-source": "~3.20.4",
     "ember-source-channel-url": "^3.0.0",
-    "ember-template-lint": "^1.14.0",
+    "ember-template-lint": "^2.10.0",
     "ember-try": "^1.4.0",
     "eslint": "^7.7.0",
     "loader.js": "^4.7.0",
