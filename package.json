@@ -73,7 +73,7 @@
     "loader.js": "^4.7.0",
     "p-defer": "^3.0.0",
     "qunit-dom": "^1.6.0",
-    "typescript": "^3.9.7"
+    "typescript": "^4.1.3"
   },
   "engines": {
     "node": ">= 10.*"
